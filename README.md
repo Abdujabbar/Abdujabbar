@@ -14,4 +14,4 @@
   * relational databases
 - 👯 I'm looking to collaborate with people who are interested to create software which can help get an easier life
 - 💬 Ask me anything
-- 📫 How to reach me: `a dot abdujabbar dot mirkhalikov at gmail dot com`
+- 📫 How to reach me: abdujabbar.mirkhalikov@gmail.com
