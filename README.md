@@ -15,3 +15,10 @@
 - 👯 I'm looking to collaborate with people who are interested to create software which can help get an easier life
 - 💬 Ask me anything
 - 📫 How to reach me: abdujabbar.mirkhalikov@gmail.com
+
+<a href="https://github.com/Abdujabbar/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdujabbar&count_private=true&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdujabbar&theme=dark&hide=jupyter%20notebook" />
+</a>
