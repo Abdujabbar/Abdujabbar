@@ -5,7 +5,7 @@
 
 <!--Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on platform for publications of the ["Комитет"](https://cmtt.ru/)
+- 🔭 I’m currently working on ["EPAM"](https://www.epam.com/)
 - 🌱 I’m currently learning:
   * algorithms
   * python
