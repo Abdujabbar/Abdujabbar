@@ -5,7 +5,7 @@
 
 <!--Here are some ideas to get you started:-->
 
-I am python and php developer from Uzbekistan. Usually work as a backend engineer, also have knowledge of frontend and data engineering practice. 
+I am a python and PHP developer from Uzbekistan. Usually, I work as a backend engineer, also have knowledge of frontend and data engineering practice.
 
 Interested to talk with engineers who are interested in automation, backend, data engineers and algorithms and data structures
 
