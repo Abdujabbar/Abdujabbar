@@ -5,16 +5,11 @@
 
 <!--Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on ["EPAM"](https://www.epam.com/)
-- 🌱 I’m currently learning:
-  * algorithms
-  * python
-  * tdd
-  * clean architecture
-  * relational databases
-- 👯 I'm looking to collaborate with people who are interested to create software which can help get an easier life
-- 💬 Ask me anything
-- 📫 How to reach me: abdujabbar.mirkhalikov@gmail.com
+I am python and php developer from Uzbekistan. Usually work as a backend engineer, also have knowledge of frontend and data engineering practice. 
+
+Interested to talk with engineers who are interested in automation, backend, data engineers and algorithms and data structures
+
+Reach out me at: (abdujabbar.mirkhalikov@gmail.com)[mailto:abdujabbar.mirkhalikov@gmail.com]
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdujabbar)
