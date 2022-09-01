@@ -11,7 +11,7 @@ I participate in the development of a lot of backend services for online media, 
 
 Always interested to automate processes to simplify business
 
-Interested to talk with engineers who are interested in automation, backend, data engineers and algorithms and data structures
+Interested to talk with people who are interested in automation, backend, data engineers and algorithms and data structures
 
 Reach out me at: abdujabbar.mirkhalikov@gmail.com
 
