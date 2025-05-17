@@ -20,7 +20,6 @@ I’m a **Senior Software Engineer** passionate about building scalable systems 
 - AI-powered automation (RAG, LLM APIs, workflow orchestration)
 - Distributed systems and backend architecture
 - DevOps and cloud (AWS, CI/CD, infrastructure-as-code)
-- Data engineering and search (OpenSearch, PostgreSQL)
 - Launching MVPs, SaaS, and product experiments
 
 ---
