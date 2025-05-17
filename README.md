@@ -34,7 +34,7 @@ I’m a **Senior Software Engineer** passionate about building scalable systems 
 
 #### 📬 Get in Touch
 **Email:** abdujabbar.mirkhalikov@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/abdujabbar-mirkhalikov/) | [Telegram](https://t.me/abdujabbar)
+[LinkedIn](https://www.linkedin.com/in/abdujabbar-mirkhalikov-73944a299/) | [Telegram](https://t.me/abdujabbar_mirkhalikov)
 
 ---
 
