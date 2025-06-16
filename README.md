@@ -2,7 +2,7 @@
 
 I’m a **Senior Software Engineer** passionate about building scalable systems and driving automation with AI.
 
-- 🏢 **Current:** Senior Software Engineer at [NoveoGroup](https://noveogroup.com/)  
+- 🏢 **Current:** Senior Software Engineer at [Keeneo](https://keeneo.us/)
 - 🧑‍🏫 **Mentor:** at [Hexlet](https://hexlet.io)
 - 🌏 **Based:** Uzbekistan, working globally and remotely
 
