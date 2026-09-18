@@ -1,40 +1,23 @@
-### Hi there! I'm Abdujabbar (Abdu) 👋
+Hi, I’m Abdu 👋
 
-I’m a **Senior Software Engineer** passionate about building scalable systems and driving automation with AI.
+I’m a Senior Software Engineer focused on backend engineering, distributed systems, and building real-world products.
 
-- 🏢 **Current:** Senior Software Engineer at [Keeneo](https://keeneo.us/)
-- 🧑‍🏫 **Mentor:** at [Hexlet](https://hexlet.io)
-- 🌏 **Based:** Uzbekistan, working globally and remotely
+Currently exploring how AI changes the way software is designed, built, and maintained.
 
----
+⸻
 
-#### 🚀 About Me
-- **Backend engineering:** Python, Django, FastAPI, Flask, AWS, Firestore, RabbitMQ, Distributed Systems etc
-- **AI & Automation:** Using LLMs & new tech to streamline business processes (logistics, translation, document workflows)
-- **System Architecture:** Designing reliable, scalable, cloud-native solutions
-- **Mentorship:** Helping engineers grow (Hexlet, open source, teams)
+🚀 What I’m working on
 
----
+* Building infrastructure and software for autonomous retail
+* Building products with coding agents and AI-assisted workflows
+* Exploring ideas and building independent products
 
-#### 🛠️ Main Focus Areas
-- AI-powered automation (RAG, LLM APIs, workflow orchestration)
-- Distributed systems and backend architecture
-- DevOps and cloud (AWS, CI/CD, infrastructure-as-code)
-- Launching MVPs, SaaS, and product experiments
 
----
+⸻
 
-#### 🚧 Current Projects
-- Building a SaaS platform for automating translation workflow (pet project)
-- Working on MVPs in logistics (document automation, demand prediction, etc.)
-- Actively growing expertise in cloud & AI solutions
+📬 Let’s connect
 
----
+Email: abdujabbar.mirkhalikov@gmail.com
+LinkedIn · Telegram
 
-#### 📬 Get in Touch
-**Email:** abdujabbar.mirkhalikov@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/abdujabbar-mirkhalikov-73944a299/) | [Telegram](https://t.me/abdujabbar_mirkhalikov)
-
----
-
-> **Always open for networking, collaboration, and new opportunities!**
+Always open to interesting conversations, collaborations, and opportunities.
