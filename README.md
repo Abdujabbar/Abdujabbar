@@ -1,6 +1,6 @@
 Hi, I’m Abdu 👋
 
-I’m a Senior Software Engineer focused on backend engineering, distributed systems, and building real-world products.
+I’m an engineer focused on backend, distributed systems, and building real-world products.
 
 Currently exploring how AI changes the way software is designed, built, and maintained.
 
